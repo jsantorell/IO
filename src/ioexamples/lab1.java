@@ -40,15 +40,19 @@ public class lab1 {
                
                    case "Street":
                        streetIndicatorNumber = i;
+                       break;
                    
                    case "Road":
                        streetIndicatorNumber = i;
+                       break;
                    
                    case "Rd.":
                        streetIndicatorNumber = i;
+                       break;
                    
                    case "St.":
                        streetIndicatorNumber = i;
+                       break;
                
                }
                
